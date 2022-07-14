@@ -1,6 +1,6 @@
 # Clock App
 
-![](C:\Users\Furkan\Desktop\ClockApp.png)
+![](ClockApp.png)
 
 
 ## Contributing
